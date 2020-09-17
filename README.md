@@ -1,2 +1,2 @@
 # Project 21
-Project Link : https://adityaburugu.github.io/BULLETS_WALLS/.
+Project Link : https://adityaburugu.github.io/Project_21/
